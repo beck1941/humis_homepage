@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce7f47f1-435a-462f-b07a-aab9b3b0b49c" name="Changes" comment="Typography edited, Contact us page finished, small link edits as well.">
-      <change afterPath="$PROJECT_DIR$/faculty-and-staff.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graduate-students.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About_Us.html" beforeDir="false" afterPath="$PROJECT_DIR$/About_Us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact-us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/Graduate.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/files/Graduate.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inner_styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/inner_styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/typography.css" beforeDir="false" afterPath="$PROJECT_DIR$/typography.css" afterDir="false" />
-    </list>
+    <list default="true" id="ce7f47f1-435a-462f-b07a-aab9b3b0b49c" name="Changes" comment="Added typography, layouts, images css. &#10;Finished contact us page, refinished about us with image and layout changes, finished faculty and staff page." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +34,7 @@
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/stylesheets" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -78,8 +65,9 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "inner-layout",
+    "git-widget-placeholder": "master",
     "javascript.preferred.runtime.type.id": "node",
+    "last_opened_file_path": "C:/Users/colin/OneDrive/Desktop/GDES2342/HUMIS_homepage",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.jshint": "true",
     "node.js.selected.package.jshint": "",
@@ -132,7 +120,10 @@
       <workItem from="1792071087982" duration="471000" />
       <workItem from="1792071578408" duration="7252000" />
       <workItem from="1792676513974" duration="44000" />
-      <workItem from="1792676568656" duration="11090000" />
+      <workItem from="1792676568656" duration="12884000" />
+      <workItem from="1792973604229" duration="45000" />
+      <workItem from="1792973671614" duration="885000" />
+      <workItem from="1793108193821" duration="7350000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Project Commit">
       <option name="closed" value="true" />
@@ -206,7 +197,23 @@
       <option name="project" value="LOCAL" />
       <updated>1792076323859</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Redid Homepage to example done in class rather than my own.">
+      <option name="closed" value="true" />
+      <created>1792970779186</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1792970779186</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added typography, layouts, images css. &#10;Finished contact us page, refinished about us with image and layout changes, finished faculty and staff page.">
+      <option name="closed" value="true" />
+      <created>1792972208049</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1792972208049</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,6 +239,8 @@
     <MESSAGE value="Changed inner_layout html name to About Us instead." />
     <MESSAGE value="Typography CSS made for pages after about us." />
     <MESSAGE value="Typography edited, Contact us page finished, small link edits as well." />
-    <option name="LAST_COMMIT_MESSAGE" value="Typography edited, Contact us page finished, small link edits as well." />
+    <MESSAGE value="Redid Homepage to example done in class rather than my own." />
+    <MESSAGE value="Added typography, layouts, images css. &#10;Finished contact us page, refinished about us with image and layout changes, finished faculty and staff page." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added typography, layouts, images css. &#10;Finished contact us page, refinished about us with image and layout changes, finished faculty and staff page." />
   </component>
 </project>
