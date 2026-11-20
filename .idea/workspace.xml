@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce7f47f1-435a-462f-b07a-aab9b3b0b49c" name="Changes" comment="All commits from past week not going through. (Test)">
+    <list default="true" id="ce7f47f1-435a-462f-b07a-aab9b3b0b49c" name="Changes" comment="Added readme">
+      <change afterPath="$PROJECT_DIR$/Faculty Listing.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/faculty-and-staff.html" beforeDir="false" afterPath="$PROJECT_DIR$/faculty-and-staff.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheets/inner_styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/inner_styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheets/layouts.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/layouts.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -45,12 +50,15 @@
     &quot;assignee&quot;: &quot;beck1941&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/beck1941/humis_homepage.git",
-    "accountId": "5572f476-0d01-4949-a396-89262358c2a9"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/beck1941/humis_homepage.git&quot;,
+    &quot;accountId&quot;: &quot;5572f476-0d01-4949-a396-89262358c2a9&quot;
   }
-}]]></component>
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2,
   &quot;fromUser&quot;: false
@@ -130,7 +138,9 @@
       <workItem from="1793108193821" duration="7350000" />
       <workItem from="1793216735924" duration="314000" />
       <workItem from="1793217424642" duration="1027000" />
-      <workItem from="1793715738786" duration="1757000" />
+      <workItem from="1793715738786" duration="3365000" />
+      <workItem from="1794324225683" duration="31000" />
+      <workItem from="1795206790868" duration="3683000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Project Commit">
       <option name="closed" value="true" />
@@ -236,7 +246,23 @@
       <option name="project" value="LOCAL" />
       <updated>1793719008137</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="All commits from past week not going through. (Test)">
+      <option name="closed" value="true" />
+      <created>1793892419920</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1793892419920</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Added readme">
+      <option name="closed" value="true" />
+      <created>1793892435669</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1793892435669</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -266,6 +292,7 @@
     <MESSAGE value="Added typography, layouts, images css. &#10;Finished contact us page, refinished about us with image and layout changes, finished faculty and staff page." />
     <MESSAGE value="Linked pages together." />
     <MESSAGE value="All commits from past week not going through. (Test)" />
-    <option name="LAST_COMMIT_MESSAGE" value="All commits from past week not going through. (Test)" />
+    <MESSAGE value="Added readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added readme" />
   </component>
 </project>
