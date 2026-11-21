@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce7f47f1-435a-462f-b07a-aab9b3b0b49c" name="Changes" comment="images..">
-      <change afterPath="$PROJECT_DIR$/Dean.html" afterDir="false" />
+    <list default="true" id="ce7f47f1-435a-462f-b07a-aab9b3b0b49c" name="Changes" comment="Dean HTML added">
+      <change afterPath="$PROJECT_DIR$/Clayton.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesheets/inner_styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/inner_styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +37,7 @@
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/stylesheets" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -73,7 +72,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "inner-layout",
     "javascript.preferred.runtime.type.id": "node",
     "last_opened_file_path": "C:/Users/colin/OneDrive/Desktop/GDES2342/HUMIS_homepage",
     "list.type.of.created.stylesheet": "CSS",
@@ -137,7 +136,7 @@
       <workItem from="1793217424642" duration="1027000" />
       <workItem from="1793715738786" duration="3365000" />
       <workItem from="1794324225683" duration="31000" />
-      <workItem from="1795206790868" duration="21787000" />
+      <workItem from="1795206790868" duration="22458000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Project Commit">
       <option name="closed" value="true" />
@@ -339,7 +338,23 @@
       <option name="project" value="LOCAL" />
       <updated>1795247199523</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Dean Fellowship page created.">
+      <option name="closed" value="true" />
+      <created>1795248365068</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1795248365068</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Dean HTML added">
+      <option name="closed" value="true" />
+      <created>1795248420188</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1795248420188</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -380,6 +395,8 @@
     <MESSAGE value="Created courses and syllabi page and linked pages together. Deleted Books from top of page to match website pdf." />
     <MESSAGE value="Created friends and alumni page and linked pages together. Fixed error where Graduate Students H2 said Undergraduate Students." />
     <MESSAGE value="images.." />
-    <option name="LAST_COMMIT_MESSAGE" value="images.." />
+    <MESSAGE value="Dean Fellowship page created." />
+    <MESSAGE value="Dean HTML added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dean HTML added" />
   </component>
 </project>
