@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce7f47f1-435a-462f-b07a-aab9b3b0b49c" name="Changes" comment="Created undergraduate students page, added links to the other page. (fixed stylesheet error)">
-      <change afterPath="$PROJECT_DIR$/Graduate-students.html" afterDir="false" />
+    <list default="true" id="ce7f47f1-435a-462f-b07a-aab9b3b0b49c" name="Changes" comment="images added to files">
+      <change afterPath="$PROJECT_DIR$/undergrad-advising.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About_Us.html" beforeDir="false" afterPath="$PROJECT_DIR$/About_Us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Faculty Listing.html" beforeDir="false" afterPath="$PROJECT_DIR$/Faculty Listing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact-us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/faculty-and-staff.html" beforeDir="false" afterPath="$PROJECT_DIR$/faculty-and-staff.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stylesheets/layouts.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/layouts.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/undergrad-students.html" beforeDir="false" afterPath="$PROJECT_DIR$/undergrad-students.html" afterDir="false" />
     </list>
@@ -143,7 +138,7 @@
       <workItem from="1793217424642" duration="1027000" />
       <workItem from="1793715738786" duration="3365000" />
       <workItem from="1794324225683" duration="31000" />
-      <workItem from="1795206790868" duration="12435000" />
+      <workItem from="1795206790868" duration="14754000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Project Commit">
       <option name="closed" value="true" />
@@ -297,7 +292,23 @@
       <option name="project" value="LOCAL" />
       <updated>1795232190317</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Created graduate students page, added links to the other page.">
+      <option name="closed" value="true" />
+      <created>1795235198858</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1795235198858</updated>
+    </task>
+    <task id="LOCAL-00021" summary="images added to files">
+      <option name="closed" value="true" />
+      <created>1795235223967</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1795235223967</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -332,6 +343,8 @@
     <MESSAGE value="Fixed layouts stylesheet for Faculty Listing." />
     <MESSAGE value="Created undergraduate students page, added links to the other page." />
     <MESSAGE value="Created undergraduate students page, added links to the other page. (fixed stylesheet error)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created undergraduate students page, added links to the other page. (fixed stylesheet error)" />
+    <MESSAGE value="Created graduate students page, added links to the other page." />
+    <MESSAGE value="images added to files" />
+    <option name="LAST_COMMIT_MESSAGE" value="images added to files" />
   </component>
 </project>
