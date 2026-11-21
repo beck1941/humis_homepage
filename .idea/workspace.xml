@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce7f47f1-435a-462f-b07a-aab9b3b0b49c" name="Changes" comment="Created courses and syllabi page and linked pages together. Deleted Books from top of page to match website pdf.">
-      <change afterPath="$PROJECT_DIR$/friends-and-alumni.html" afterDir="false" />
+    <list default="true" id="ce7f47f1-435a-462f-b07a-aab9b3b0b49c" name="Changes" comment="images..">
+      <change afterPath="$PROJECT_DIR$/Dean.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About_Us.html" beforeDir="false" afterPath="$PROJECT_DIR$/About_Us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Faculty Listing.html" beforeDir="false" afterPath="$PROJECT_DIR$/Faculty Listing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graduate-students.html" beforeDir="false" afterPath="$PROJECT_DIR$/Graduate-students.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact-us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/courses-and-syllabi.html" beforeDir="false" afterPath="$PROJECT_DIR$/courses-and-syllabi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/faculty-and-staff.html" beforeDir="false" afterPath="$PROJECT_DIR$/faculty-and-staff.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesheets/layouts.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/layouts.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/undergrad-advising.html" beforeDir="false" afterPath="$PROJECT_DIR$/undergrad-advising.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/undergrad-students.html" beforeDir="false" afterPath="$PROJECT_DIR$/undergrad-students.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheets/inner_styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/inner_styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +38,7 @@
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/stylesheets" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -82,7 +73,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "inner-layout",
+    "git-widget-placeholder": "master",
     "javascript.preferred.runtime.type.id": "node",
     "last_opened_file_path": "C:/Users/colin/OneDrive/Desktop/GDES2342/HUMIS_homepage",
     "list.type.of.created.stylesheet": "CSS",
@@ -146,7 +137,7 @@
       <workItem from="1793217424642" duration="1027000" />
       <workItem from="1793715738786" duration="3365000" />
       <workItem from="1794324225683" duration="31000" />
-      <workItem from="1795206790868" duration="20677000" />
+      <workItem from="1795206790868" duration="21787000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Project Commit">
       <option name="closed" value="true" />
@@ -332,7 +323,23 @@
       <option name="project" value="LOCAL" />
       <updated>1795244122618</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Created friends and alumni page and linked pages together. Fixed error where Graduate Students H2 said Undergraduate Students.">
+      <option name="closed" value="true" />
+      <created>1795247125465</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1795247125465</updated>
+    </task>
+    <task id="LOCAL-00025" summary="images..">
+      <option name="closed" value="true" />
+      <created>1795247199523</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1795247199523</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -371,6 +378,8 @@
     <MESSAGE value="images added to files" />
     <MESSAGE value="Created Undergrad advising page and linked pages together." />
     <MESSAGE value="Created courses and syllabi page and linked pages together. Deleted Books from top of page to match website pdf." />
-    <option name="LAST_COMMIT_MESSAGE" value="Created courses and syllabi page and linked pages together. Deleted Books from top of page to match website pdf." />
+    <MESSAGE value="Created friends and alumni page and linked pages together. Fixed error where Graduate Students H2 said Undergraduate Students." />
+    <MESSAGE value="images.." />
+    <option name="LAST_COMMIT_MESSAGE" value="images.." />
   </component>
 </project>
