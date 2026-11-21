@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce7f47f1-435a-462f-b07a-aab9b3b0b49c" name="Changes" comment="Created Undergrad advising page and linked pages together.">
-      <change afterPath="$PROJECT_DIR$/courses-and-syllabi.html" afterDir="false" />
+    <list default="true" id="ce7f47f1-435a-462f-b07a-aab9b3b0b49c" name="Changes" comment="Created courses and syllabi page and linked pages together. Deleted Books from top of page to match website pdf.">
+      <change afterPath="$PROJECT_DIR$/friends-and-alumni.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/About_Us.html" beforeDir="false" afterPath="$PROJECT_DIR$/About_Us.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Faculty Listing.html" beforeDir="false" afterPath="$PROJECT_DIR$/Faculty Listing.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Graduate-students.html" beforeDir="false" afterPath="$PROJECT_DIR$/Graduate-students.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses-and-syllabi.html" beforeDir="false" afterPath="$PROJECT_DIR$/courses-and-syllabi.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/faculty-and-staff.html" beforeDir="false" afterPath="$PROJECT_DIR$/faculty-and-staff.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stylesheets/layouts.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/layouts.css" afterDir="false" />
@@ -145,7 +146,7 @@
       <workItem from="1793217424642" duration="1027000" />
       <workItem from="1793715738786" duration="3365000" />
       <workItem from="1794324225683" duration="31000" />
-      <workItem from="1795206790868" duration="17520000" />
+      <workItem from="1795206790868" duration="20677000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Project Commit">
       <option name="closed" value="true" />
@@ -323,7 +324,15 @@
       <option name="project" value="LOCAL" />
       <updated>1795237812167</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Created courses and syllabi page and linked pages together. Deleted Books from top of page to match website pdf.">
+      <option name="closed" value="true" />
+      <created>1795244122618</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1795244122618</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -361,6 +370,7 @@
     <MESSAGE value="Created graduate students page, added links to the other page." />
     <MESSAGE value="images added to files" />
     <MESSAGE value="Created Undergrad advising page and linked pages together." />
-    <option name="LAST_COMMIT_MESSAGE" value="Created Undergrad advising page and linked pages together." />
+    <MESSAGE value="Created courses and syllabi page and linked pages together. Deleted Books from top of page to match website pdf." />
+    <option name="LAST_COMMIT_MESSAGE" value="Created courses and syllabi page and linked pages together. Deleted Books from top of page to match website pdf." />
   </component>
 </project>
